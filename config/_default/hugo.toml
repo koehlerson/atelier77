@@ -12,7 +12,8 @@ relativeURLs = "true"
 #canonifyURLs = "true"
 
 # Local
-baseURL = "/"
+#baseURL = "/"
+baseURL = "https://koehlerson.github.io/atelier77/"
 publishDir = "public"
 
 # Remote
