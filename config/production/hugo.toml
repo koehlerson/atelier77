@@ -2,7 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "Hugo Story"
+title = "Atelier 77"
 copyright = "{year}"
 
 ## -----------------------------------------------
@@ -13,7 +13,7 @@ relativeURLs = "true"
 #canonifyURLs = "true"
 
 # Local
-baseURL = "/"
+baseURL = "https://koehlerson.github.io/atelier77/"
 publishDir = "public"
 
 # Remote
