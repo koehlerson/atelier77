@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Atelier 77"
+subtitle: |
+  Kreativ-, Handwerks- und Veranstaltungsort in Bochum Laer.
+content : |
+  Seit über 10 Jahren befindet sich in der Schattbachstraße 77 der 300 Jahre alte Hof, der heute für ihre Veranstaltung gemietet werden kann.
+button:
+  label : "Mehr erfahren"
+  link : "#first"
+image : "images/hof.jpg"
+
