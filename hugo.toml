@@ -13,7 +13,7 @@ relativeURLs = "true"
 
 # Local
 #baseURL = "/"
-publishDir = "atelier77"
+#publishDir = "public"
 
 # Remote
 baseURL = "https://koehlerson.github.io/"
