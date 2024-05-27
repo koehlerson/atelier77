@@ -13,11 +13,11 @@ relativeURLs = "true"
 
 # Local
 #baseURL = "/"
-publishDir = "docs"
+publishDir = "./public"
 
 # Remote
 baseURL = "https://koehlerson.github.io/atelier77/"
-title = "Atelier77"
+title = "Atelier 77"
 #publishDir = "//centos/sites/hugodev/hugostory/"
 
 
