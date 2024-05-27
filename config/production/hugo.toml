@@ -9,7 +9,7 @@ copyright = "{year}"
 ## Publish
 ## -----------------------------------------------
 
-relativeURLs = "true"
+relativeURLs = "false"
 #canonifyURLs = "true"
 
 # Local
