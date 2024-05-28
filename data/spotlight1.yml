@@ -3,8 +3,8 @@ style: "style1 orient-right content-align-left image-position-center onscroll-im
 id: "first"
 title : "Veranstlatungsort"
 content: |
-  This is a <strong>Spotlight</strong> element, and it's generally used &ndash; as its name implies &ndash; to spotlight a particular feature, subject, or pretty much whatever. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
-button: 
-  label: "Learn More"
-  link: "#"
+  Das Atelier 77 bietet den perfekten Rahmen für Ihre Veranstaltungen. Egal, ob Sie eine Hochzeit, einen Geburtstag oder eine Firmenfeier planen – unser 300 Jahre alter Hof schafft eine einzigartige Atmosphäre. Mit flexiblen Räumen, moderner Ausstattung und einem Team, das sich um jedes Detail kümmert, wird Ihre Feier zu einem unvergesslichen Erlebnis. Genießen Sie die idyllische Umgebung, individuelle Dekorationsmöglichkeiten und maßgeschneiderte Catering-Optionen. Lassen Sie uns gemeinsam Ihre Veranstaltung zu einem Highlight machen!
+#button:
+#  label: "Learn More"
+#  link: "#"
 image: "images/spotlight01.jpg"
